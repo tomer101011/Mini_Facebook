@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mini_Facebook/static/css/main.5d2734dd.chunk.css",
+    "main.js": "/Mini_Facebook/static/js/main.8de85dd1.chunk.js",
+    "main.js.map": "/Mini_Facebook/static/js/main.8de85dd1.chunk.js.map",
+    "runtime~main.js": "/Mini_Facebook/static/js/runtime~main.32c41f51.js",
+    "runtime~main.js.map": "/Mini_Facebook/static/js/runtime~main.32c41f51.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/Mini_Facebook/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.45eea058.chunk.js": "/Mini_Facebook/static/js/2.45eea058.chunk.js",
+    "static/js/2.45eea058.chunk.js.map": "/Mini_Facebook/static/js/2.45eea058.chunk.js.map",
+    "index.html": "/Mini_Facebook/index.html",
+    "precache-manifest.b0ee17cf4c4401cf3a1cf4a09b71029c.js": "/Mini_Facebook/precache-manifest.b0ee17cf4c4401cf3a1cf4a09b71029c.js",
+    "service-worker.js": "/Mini_Facebook/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/Mini_Facebook/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.5d2734dd.chunk.css.map": "/Mini_Facebook/static/css/main.5d2734dd.chunk.css.map",
+    "static/media/bf.jpeg": "/Mini_Facebook/static/media/bf.d809403c.jpeg",
+    "static/media/bf2.jpeg": "/Mini_Facebook/static/media/bf2.e6b2e5db.jpeg",
+    "static/media/cod.jpg": "/Mini_Facebook/static/media/cod.2165957c.jpg",
+    "static/media/gots.jpg": "/Mini_Facebook/static/media/gots.2d464028.jpg",
+    "static/media/me.jpg": "/Mini_Facebook/static/media/me.b161a4df.jpg",
+    "static/media/swtor.jpg": "/Mini_Facebook/static/media/swtor.ce339cab.jpg"
+  }
+}
