@@ -42,7 +42,7 @@ export default class DataComponent extends Component {
     render() {
         return (
             <div>
-                <HashRouter>
+                <Router>
                     {/*How to vanish header if not logged in?*/}
                     {/*Else logged in and show header*/}
                     <HeaderLogin setDisplayHeader={this.setDisplayHeader} displayHeader={this.state.displayHeader} />
@@ -54,7 +54,7 @@ export default class DataComponent extends Component {
                         <Route exact path='/MyAccount' render={(props) => <MyAccount {...props} users={this.state.users} indexLoggedUser={this.state.indexLoggedUser} />} />
                     </Switch>
 
-                </HashRouter>
+                </Router>
             </div>
         )
     }
